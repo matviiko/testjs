@@ -90,17 +90,34 @@ else {
 // };
 // Task 10
 
+// var num1 = document.querySelector("#input-i");
+// var button = document.querySelector("button");
+//
+// button.onclick =  function () {
+//     var name = num1.value;
+//     name = name.trim();
+//     if (name == "") {
+//         alert("Please write your name!!");
+//     }
+//     else {
+//         alert("Hello " + name);
+//     }
+// };
+//Task 11
+
 var num1 = document.querySelector("#input-i");
 var button = document.querySelector("button");
+var p = document.querySelector("p")
 
-button.onclick =  function () {
-    var name = num1.value;
-    name = name.trim();
-    if (name == "") {
-        alert("Please write your name!!");
+button.onclick = function () {
+    if (num1.value <= 5 ) {
+        p.innerText = "Street 1";
     }
-    else {
-        alert("Hello " + name);
+    else if (num1.value > 5 && num1.value <= 11) {
+        p.innerText = "Street 2";
+    }
+    else if (num1.value > 11 && num1.value <= 20) {
+        p.innerText = "Street 3";
     }
 };
-//Task 11
+//Task13
