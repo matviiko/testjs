@@ -76,16 +76,31 @@ else {
 // };
 // Lessons 8
 
+// var num1 = document.querySelector("#input-i");
+// var button = document.querySelector("button");
+//
+// button.onclick =  function () {
+//     var name = num1.value;
+//     if (name == " ") {
+//         alert("Please write your name!!");
+//     }
+//     else {
+//         alert("Hello " + name);
+//     }
+// };
+// Task 10
+
 var num1 = document.querySelector("#input-i");
 var button = document.querySelector("button");
 
 button.onclick =  function () {
     var name = num1.value;
-    if (name == " ") {
+    name = name.trim();
+    if (name == "") {
         alert("Please write your name!!");
     }
     else {
         alert("Hello " + name);
     }
 };
-// Task 10
+//Task 11
