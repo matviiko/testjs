@@ -47,16 +47,31 @@ else {
 // };
 // //Lessons 5
 
-var nun = document.querySelector("#input-i");
+// var nun = document.querySelector("#input-i");
+// var button = document.querySelector("button");
+// var p = document.querySelector("p");
+//
+// button.onclick = function () {
+//     if (nun.value > 0) {
+//         alert("The number is greater than 0");
+//     }
+//     else {
+//        alert("The number is less than 0");
+//     }
+// };
+// //Lessons 7
+
+var num1 = document.querySelector("#input-i");
 var button = document.querySelector("button");
 var p = document.querySelector("p");
 
 button.onclick = function () {
-    if (nun.value > 0) {
-        alert("The number is greater than 0");
+    var n = num1.value % 2;
+    if (n == 0) {
+        p.innerText = "Even number";
     }
     else {
-       alert("The number is less than 0");
+        p.innerText = "Ood number";
     }
 };
-//Lessons 7
+//Lessons 8
