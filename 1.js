@@ -61,17 +61,31 @@ else {
 // };
 // //Lessons 7
 
+// var num1 = document.querySelector("#input-i");
+// var button = document.querySelector("button");
+// var p = document.querySelector("p");
+//
+// button.onclick = function () {
+//     var n = num1.value % 2;
+//     if (n == 0) {
+//         p.innerText = "Even number";
+//     }
+//     else {
+//         p.innerText = "Ood number";
+//     }
+// };
+// Lessons 8
+
 var num1 = document.querySelector("#input-i");
 var button = document.querySelector("button");
-var p = document.querySelector("p");
 
-button.onclick = function () {
-    var n = num1.value % 2;
-    if (n == 0) {
-        p.innerText = "Even number";
+button.onclick =  function () {
+    var name = num1.value;
+    if (name == " ") {
+        alert("Please write your name!!");
     }
     else {
-        p.innerText = "Ood number";
+        alert("Hello " + name);
     }
 };
-//Lessons 8
+// Task 10
