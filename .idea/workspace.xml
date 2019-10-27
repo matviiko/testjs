@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="192d98dc-94f7-4762-9b96-fda0599e5561" name="Default Changelist" comment="">
+    <list default="true" id="192d98dc-94f7-4762-9b96-fda0599e5561" name="Default Changelist" comment="Unit4 task1">
+      <change afterPath="$PROJECT_DIR$/unit4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
     </list>
@@ -10,6 +12,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -21,6 +31,7 @@
   </component>
   <component name="ProjectId" id="1SCUeth7wBPi6E7R6jlgaHmjjvP" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -48,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571068409548</updated>
-      <workItem from="1571068441333" duration="7549000" />
+      <workItem from="1571068441333" duration="10122000" />
+      <workItem from="1572183624420" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="added .gitignore">
       <created>1571068644634</created>
@@ -92,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571075448201</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task 13">
+      <created>1571076440432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571076440432</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +134,7 @@
                   </entry>
                 </map>
               </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -142,7 +162,9 @@
     <MESSAGE value="added .gitignore" />
     <MESSAGE value="Task 8" />
     <MESSAGE value="Task 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 10" />
+    <MESSAGE value="Task 13" />
+    <MESSAGE value="Unit4 task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit4 task1" />
   </component>
   <component name="WindowStateProjectService">
     <state width="366" height="265" key="Git.Branch.Popup" />

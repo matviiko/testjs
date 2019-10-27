@@ -105,19 +105,43 @@ else {
 // };
 //Task 11
 
+// var num1 = document.querySelector("#input-i");
+// var button = document.querySelector("button");
+// var p = document.querySelector("p")
+//
+// button.onclick = function () {
+//     if (num1.value <= 5 ) {
+//         p.innerText = "Street 1";
+//     }
+//     else if (num1.value > 5 && num1.value <= 11) {
+//         p.innerText = "Street 2";
+//     }
+//     else if (num1.value > 11 && num1.value <= 20) {
+//         p.innerText = "Street 3";
+//     }
+// };
+//Task13
+
 var num1 = document.querySelector("#input-i");
 var button = document.querySelector("button");
-var p = document.querySelector("p")
+var p = document.querySelector("p");
+var k1 = num1.value;
 
 button.onclick = function () {
-    if (num1.value <= 5 ) {
-        p.innerText = "Street 1";
-    }
-    else if (num1.value > 5 && num1.value <= 11) {
-        p.innerText = "Street 2";
-    }
-    else if (num1.value > 11 && num1.value <= 20) {
-        p.innerText = "Street 3";
+    switch (k1) {
+        case 1:
+            p.innerText = "2525 tenge";
+            console.log("1");
+            break;
+        case 2:
+            p.innerText = "5050 tenge";
+            console.log("2");
+            break;
+        case 3:
+            p.innerText = "8275 tenge";
+            console.log("3");
+            break;
     }
 };
-//Task13
+
+
