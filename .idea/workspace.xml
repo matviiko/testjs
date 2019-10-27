@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="192d98dc-94f7-4762-9b96-fda0599e5561" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unit4.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unit_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit_4.js" afterDir="false" />
     </list>
@@ -58,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571068409548</updated>
       <workItem from="1571068441333" duration="10122000" />
-      <workItem from="1572183624420" duration="1696000" />
+      <workItem from="1572183624420" duration="4557000" />
     </task>
     <task id="LOCAL-00001" summary="added .gitignore">
       <created>1571068644634</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572185089578</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Unit4 task3">
+      <created>1572185461575</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572185461575</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +185,8 @@
     <MESSAGE value="Task 13" />
     <MESSAGE value="Unit4 task1" />
     <MESSAGE value="Unit4 task1 next com" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unit4 task1 next com" />
+    <MESSAGE value="Unit4 task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit4 task3" />
   </component>
   <component name="WindowStateProjectService">
     <state width="366" height="265" key="Git.Branch.Popup" />
