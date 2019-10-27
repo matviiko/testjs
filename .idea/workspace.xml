@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571068409548</updated>
       <workItem from="1571068441333" duration="10122000" />
-      <workItem from="1572183624420" duration="7322000" />
+      <workItem from="1572183624420" duration="9201000" />
     </task>
     <task id="LOCAL-00001" summary="added .gitignore">
       <created>1571068644634</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572190081181</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Unit4 task8">
+      <created>1572191667535</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572191667535</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +225,8 @@
     <MESSAGE value="Unit4 task5" />
     <MESSAGE value="Unit4 task6" />
     <MESSAGE value="Unit4 task7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unit4 task7" />
+    <MESSAGE value="Unit4 task8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit4 task8" />
   </component>
   <component name="WindowStateProjectService">
     <state width="366" height="265" key="Git.Branch.Popup" />
