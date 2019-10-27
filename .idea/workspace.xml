@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="192d98dc-94f7-4762-9b96-fda0599e5561" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/unit4.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit_4.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571068409548</updated>
       <workItem from="1571068441333" duration="10122000" />
-      <workItem from="1572183624420" duration="1391000" />
+      <workItem from="1572183624420" duration="1696000" />
     </task>
     <task id="LOCAL-00001" summary="added .gitignore">
       <created>1571068644634</created>
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572184765356</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Unit4 task1 next com">
+      <created>1572185089578</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572185089578</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

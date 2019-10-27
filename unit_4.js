@@ -1,3 +1,3 @@
-function f() {
-    alert("Task2");
-}
+document.querySelector('p').onclick = () => {
+  alert("Task 3");
+};
