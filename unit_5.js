@@ -1,7 +1,7 @@
 var p = document.querySelector("p");
-var i = 0;
+var i = 10;
 
-for (; i <= 10 ; i++) {
+for (; i >= 0 ; i--) {
     p.innerHTML += i + "<br>"
 }
 
