@@ -5,4 +5,4 @@ for (; i >= 0 ; i--) {
     p.innerHTML += i + "<br>"
 }
 
-// Lessons 2
+// Lessons 3
