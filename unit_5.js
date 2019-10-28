@@ -1,8 +1,8 @@
 var p = document.querySelector("p");
-var i = 10;
+var i = 0;
 
-for (; i >= 0 ; i--) {
+for (; i <= 10 ; i = i + 2) {
     p.innerHTML += i + "<br>"
 }
 
-// Lessons 3
+// Lessons 4
