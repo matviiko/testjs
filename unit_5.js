@@ -1,14 +1,12 @@
-var button = document.querySelector("button");
-button.onclick = function () {
-    var p = document.querySelector("p");
-    var input = document.querySelector("input");
-    var i = input.value;
+var p = document.querySelector("p");
+var div =  document.querySelectorAll(".one");
+var i = 0;
 
-    for (; i >= 0 ; i --) {
-        p.innerHTML += i + "<br>"
-    }
-};
+console.log(div);
+for (; i <= div.length ; i ++) {
+ p.innerHTML = div.length
+}
 
 
 
-// Lessons 7
+// Lessons 11
