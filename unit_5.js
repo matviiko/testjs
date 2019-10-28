@@ -1,8 +1,14 @@
-var p = document.querySelector("p");
-var i = 21;
+var button = document.querySelector("button");
+button.onclick = function () {
+    var p = document.querySelector("p");
+    var input = document.querySelector("input");
+    var i = input.value;
 
-for (; i >= 0 ; i = i - 3) {
-    p.innerHTML += i + "<br>"
-}
+    for (; i >= 0 ; i --) {
+        p.innerHTML += i + "<br>"
+    }
+};
 
-// Lessons 5
+
+
+// Lessons 7
