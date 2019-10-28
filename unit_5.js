@@ -1,6 +1,8 @@
+var p = document.querySelector("p");
 var i = 0;
 
 for (; i <= 10 ; i++) {
-    console.log(i)
+    p.innerHTML += i + "<br>"
 }
-// Lessons 1
+
+// Lessons 2
