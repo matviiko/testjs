@@ -1,10 +1,12 @@
 var out = document.querySelector('.out');
 
-for (var k=0; k < 3; k++) {
-    for (var i = 0; i < 3; i++) {
-        out.innerHTML += "*_";
+for (var k=0; k <= 10; k++) {
+    out.innerHTML += k + "_";
+    var i = 10;
+    out.innerHTML += i + ".";
+    for (; i > 0; i--) {
+
     }
-    out.innerHTML += "<br>";
 }
 
 // Lessons 3

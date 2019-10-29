@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="192d98dc-94f7-4762-9b96-fda0599e5561" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unit_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit_6.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +59,7 @@
       <updated>1571068409548</updated>
       <workItem from="1571068441333" duration="10122000" />
       <workItem from="1572183624420" duration="16658000" />
-      <workItem from="1572271620213" duration="7552000" />
+      <workItem from="1572271620213" duration="8931000" />
     </task>
     <task id="LOCAL-00001" summary="added .gitignore">
       <created>1571068644634</created>
@@ -270,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572346105527</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Unit6 task3">
+      <created>1572346369054</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1572346369054</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task 7" />
     <MESSAGE value="added .gitignore" />
     <MESSAGE value="Task 8" />
     <MESSAGE value="Task 10" />
@@ -341,7 +348,8 @@
     <MESSAGE value="Unit5 task15 false" />
     <MESSAGE value="Unit6 task1" />
     <MESSAGE value="Unit6 task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unit6 task2" />
+    <MESSAGE value="Unit6 task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit6 task3" />
   </component>
   <component name="WindowStateProjectService">
     <state width="368" height="267" key="Git.Branch.Popup" />
