@@ -1,12 +1,7 @@
-var out = document.querySelector('.out');
+var p = document.querySelector("p");
 
-for (var k=0; k <= 10; k++) {
-    out.innerHTML += k + "_";
-    var i = 10;
-    out.innerHTML += i + ".";
-    for (; i > 0; i--) {
-
-    }
-}
-
-// Lessons 3
+for (var i=0; i<=10; i++) {
+    var twoN = 10 - i;
+    p.innerHTML += i + "_" + twoN + "_";
+};
+// Lessons 4
